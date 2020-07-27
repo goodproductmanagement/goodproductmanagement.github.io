@@ -11,7 +11,7 @@ This series of emails will focus on good product management. I’ll talk about i
 - Social enterprise
 - Non-Governmental Organisation.
 
-I’ll publish a new episode whenever I’ve got something useful to say and keep quiet when I’ve not. I’d guess you can expect something every 2-4 weeks.
+I’ll publish a new episode whenever I’ve got something useful to say and keep quiet when I’ve not. I’d guess you can expect something every few weeks.
 
 <iframe
 scrolling="no"
