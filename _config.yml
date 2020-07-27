@@ -1,6 +1,7 @@
 # General Jekyll Config
 name: Good Product Management
-description: Product with a purpose by Scott Colfer.
+description: Products that improve lives by Scott Colfer.
+url: "https://goodproduct.management/"
 
 # Build settings
 markdown: kramdown
