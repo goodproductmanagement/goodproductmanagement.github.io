@@ -1,6 +1,6 @@
 # Good product management
 
-This website is the homepage for a series of emails will focus on good product management. I’ll talk about increasing the value of products that improve lives, where we measure value through how much we help people over how much profit we make. It’s likely that this will be of most interest to you if you’re working in a:
+This website is the homepage for a series of emails that will focus on good product management. I’ll talk about increasing the value of products that improve lives, where we measure value through how much we help people over how much profit we make. It’s likely that this will be of most interest to you if you’re working in a:
 
 - Government department or agency
 - Local Authority
