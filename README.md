@@ -9,7 +9,7 @@ This website is the homepage for a series of emails that will focus on good prod
 - Social enterprise
 - Non-Governmental Organisation.
 
-I’ll publish a new episode whenever I’ve got something useful to say and keep quiet when I’ve not. I’d guess you can expect something every 2-4 weeks.
+I’ll publish a new episode whenever I’ve got something useful to say and keep quiet when I’ve not. I’d guess you can expect something every few weeks.
 
 ## Built with
 
